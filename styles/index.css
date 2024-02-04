@@ -1,0 +1,217 @@
+.container{
+    max-width: 1152px;
+    width: 100%;
+    height: auto;
+    background-color: rgb(56, 2, 2);
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center; 
+   
+}
+
+.card1{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    border-radius: 10px;
+    
+}
+
+.con-1{
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+}
+
+
+.card2{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.con-2{
+    width: 78px;
+    height: 120px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+
+.card3{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: flex-end;
+    border-radius: 10px;
+   
+    
+}
+
+.con-3{
+    width: 78px;
+    height: 78px;
+    margin: 10px;
+    background-color: #9D0208;
+    border-radius: 10px;
+    
+
+}
+.card4{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: flex-start;
+    border-radius: 10px;
+    
+}
+
+.conn-1{
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+    
+
+    
+}
+.conn-2{
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208; 
+    margin: 10px;
+    border-radius: 10px;
+    
+
+}
+.conn-3{
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    align-self: flex-end;
+    border-radius: 10px;
+    
+
+}
+.card5{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+.note{
+    font-family: 'Roboto', sans-serif;
+    font-style: normal;
+    
+}
+
+.connn-1{
+
+    width: 78px;
+    height: 120px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+    
+
+}
+.connn-2{
+
+    width: 78px;
+    height: 64px;
+    background-color: #9D0208;
+    margin: 10px;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.connn-3{
+
+    width: 78px;
+    height: 120px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+    
+}
+
+
+.card6{
+    width: 468px;
+    height: 160px;
+    background-color: #F48C06;
+    margin: 10px;
+    padding: 20px; 
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+
+.connnn-1{
+
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+
+}
+.connnn-2{
+
+    width: 156px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    align-items: center;
+    border-radius: 10px;
+    
+}
+.connnn-3{
+
+    width: 78px;
+    height: 78px;
+    background-color: #9D0208;
+    margin: 10px;
+    border-radius: 10px;
+}
